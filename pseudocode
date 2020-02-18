@@ -1,0 +1,40 @@
+//Pseudo code homework week 1: Commute to work
+//Wake up
+//if earlier than 6am, go back to sleep for a few minutes
+//ELSE
+//get out of bed
+//Chug glass of water next to bed
+//Use the bathroom
+//Brush teeth 
+//Pet dog while brushing
+//Throw on some Spotify tunes
+//Take a shower
+//Get dressed
+//Take vitamins
+	//if any go macro bars are left, eat one
+	//ELSE
+	// stop for some breakfast on the walk to work
+//Turn off the Spotify tunes
+//Check the weather
+	//if rain or snow in the forecast, put on boots and heavy jacket
+	//ELSE
+	// put on cool shoes and wool jacket
+//Feed the dog
+//Turn on radio for the dog
+//Make sure lights are turned off
+//Grab keys and bag
+//Lock up the house
+//Drive to train station
+//Park and pay for spot
+//Get on train when it arrives
+	//if seats are available, sit
+	//ELSE
+	//check one more train car for seats, sit if you find one
+	//ELSE
+	//stand, sadly
+//Listen to latest podcast
+//Look out the window and enjoy surroundings
+//When close to train stop, order coffee from phone
+//Get off the train at Ogilvie
+//Pick up coffee
+//Walk the rest of the way to work!
